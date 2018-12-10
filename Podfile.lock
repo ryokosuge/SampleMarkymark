@@ -1,0 +1,16 @@
+PODS:
+  - markymark (9.0.0)
+
+DEPENDENCIES:
+  - markymark
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - markymark
+
+SPEC CHECKSUMS:
+  markymark: 0a09a93eb99049d5b29f5e028767704bd2cae2e4
+
+PODFILE CHECKSUM: c806e59bb18dff8fbd46f87f37e55c9a177db9c7
+
+COCOAPODS: 1.5.3
